@@ -48,7 +48,6 @@ We also built a visualizaton tool from Realtor.com's historical data.  Using the
   - [Maps]() - maps for zip code/neighborhood visualization
 
 - Data Folder
- -
  
 - Visuals Folder
   - [Function Samples]() - screenshot of function outputs
