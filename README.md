@@ -72,5 +72,9 @@ We also built a visualizaton tool from Realtor.com's historical data.  Using the
 
 - [NYC Special Initiative For Resilience And Rebuilding Article](http://s-media.nyc.gov/agencies/sirr/SIRR_singles_Lo_res.pdf)
 
+## Samples
+
+![Image of Samples](https://github.com/rows317/DSI-8-Client-Project/blob/master/code/clientsamp.jpg)
+
 
 
