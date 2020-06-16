@@ -42,16 +42,16 @@ We also built a visualizaton tool from Realtor.com's historical data.  Using the
 
 ## Files and Folders
 - Code Folder, 5 Files
-  - [Data Cleaning 1]() - code to clean addresses and isolate zip codes
-  - [Zillow Estimator]() - further data cleaning and creation of Zillow API grab function
-  - [Charts]() - visualization tool using historical data
-  - [Maps]() - maps for zip code/neighborhood visualization
+  - [Data Cleaning 1](https://github.com/rows317/DSI-8-Client-Project/blob/master/code/Data%20Cleaning%201.ipynb) - code to clean addresses and isolate zip codes
+  - [Zillow Estimator](https://github.com/rows317/DSI-8-Client-Project/blob/master/code/Zillow%20Estimator.ipynb) - further data cleaning and creation of Zillow API grab function
+  - [Charts](https://github.com/rows317/DSI-8-Client-Project/blob/master/code/Historical%20Cleaning%20And%20Graphing.ipynb) - visualization tool using historical data
+  - [Maps](https://github.com/rows317/DSI-8-Client-Project/blob/master/code/folium%20map%20code.ipynb) - maps for zip code/neighborhood visualization
 
-- Data Folder
+- Data Folder(https://github.com/rows317/DSI-8-Client-Project/tree/master/data)
  
 - Visuals Folder
-  - [Function Samples]() - screenshot of function outputs
-  - [Folium Maps]() - maps corresponding to function outputs
+  - [Function Samples](https://github.com/rows317/DSI-8-Client-Project/tree/master/function%20samples) - screenshot of function outputs
+  - [Folium Maps](https://sites.google.com/view/mapsbyzip/lower-manhattan?authuser=0) - maps corresponding to function outputs
 
 
 
@@ -72,9 +72,5 @@ We also built a visualizaton tool from Realtor.com's historical data.  Using the
 
 - [NYC Special Initiative For Resilience And Rebuilding Article](http://s-media.nyc.gov/agencies/sirr/SIRR_singles_Lo_res.pdf)
 
-
-## Team Members
-
-Andrew Bergman, Rose Tesoriero-Montoya, and Lucas Winter
 
 
