@@ -47,7 +47,7 @@ We also built a visualizaton tool from Realtor.com's historical data.  Using the
   - [Charts](https://github.com/rows317/DSI-8-Client-Project/blob/master/code/Historical%20Cleaning%20And%20Graphing.ipynb) - visualization tool using historical data
   - [Maps](https://github.com/rows317/DSI-8-Client-Project/blob/master/code/folium%20map%20code.ipynb) - maps for zip code/neighborhood visualization
 
-- Data Folder(https://github.com/rows317/DSI-8-Client-Project/tree/master/data)
+- [Data Folder](https://github.com/rows317/DSI-8-Client-Project/tree/master/data)
  
 - Visuals Folder
   - [Function Samples](https://github.com/rows317/DSI-8-Client-Project/tree/master/function%20samples) - screenshot of function outputs
