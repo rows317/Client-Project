@@ -41,7 +41,7 @@ We also built a visualizaton tool from Realtor.com's historical data.  Using the
 
 
 ## Files and Folders
-- Code Folder, 5 Files
+- Code Folder
   - [Data Cleaning 1](https://github.com/rows317/DSI-8-Client-Project/blob/master/code/Data%20Cleaning%201.ipynb) - code to clean addresses and isolate zip codes
   - [Zillow Estimator](https://github.com/rows317/DSI-8-Client-Project/blob/master/code/Zillow%20Estimator.ipynb) - further data cleaning and creation of Zillow API grab function
   - [Charts](https://github.com/rows317/DSI-8-Client-Project/blob/master/code/Historical%20Cleaning%20And%20Graphing.ipynb) - visualization tool using historical data
